@@ -17,6 +17,7 @@ group :development do
   gem 'simplecov', '~> 0.9'
   gem 'sinatra'
   gem 'webmock', '~> 1.21'
+  gem 'yard', '~> 0.9', '>= 0.9.11'
 end
 
 platforms :jruby do
